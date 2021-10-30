@@ -1,6 +1,6 @@
 #pragma once
 
-// predeclares.
+// predeclares. LOLY
 class CCSGOPlayerAnimState;
 class C_CSGameRules;
 
